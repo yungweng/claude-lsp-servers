@@ -2,8 +2,8 @@
   "name": "claude-lsp-servers",
   "description": "Working LSP language servers for Claude Code - TypeScript, Python, and Go",
   "owner": {
-    "name": "yungweng",
-    "url": "https://github.com/yungweng",
+    "name": "yonnock",
+    "url": "https://github.com/yonnock",
     "email": "y.wenger@gmx.de"
   },
   "plugins": [
