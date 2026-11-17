@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Language servers for TypeScript, Python (Pyright), and Go (gopls)",
   "author": {
-    "name": "yungweng",
+    "name": "yonnock",
     "email": "y.wenger@gmx.de",
-    "url": "https://github.com/yungweng"
+    "url": "https://github.com/yonnock"
   },
-  "repository": "https://github.com/yungweng/claude-lsp-servers",
+  "repository": "https://github.com/yonnock/claude-lsp-servers",
   "license": "MIT",
   "keywords": ["lsp", "typescript", "python", "go", "language-server", "code-intelligence"]
 }

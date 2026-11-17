@@ -26,7 +26,7 @@ go install golang.org/x/tools/gopls@latest
 ## Installation
 
 ```bash
-claude plugin marketplace add yungweng/claude-lsp-servers
+claude plugin marketplace add yonnock/claude-lsp-servers
 claude plugin install lsp-servers@claude-lsp-servers
 ```
 
